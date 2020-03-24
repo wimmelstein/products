@@ -22,6 +22,7 @@ import nl.inholland.view.ProductView;
 public class SampleFX extends Application {
 
 	
+	@SuppressWarnings("unchecked")
 	@Override
 	public void start(Stage window) throws Exception {
 		

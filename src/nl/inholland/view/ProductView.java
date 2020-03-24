@@ -16,7 +16,6 @@ public class ProductView {
 	public static void addProduct(ObservableList<Product> products) {
 		
 		Stage window = new Stage();
-		
 		window.initModality(Modality.WINDOW_MODAL);
 		
 		Label nameLabel, stockLabel, priceLabel;
